@@ -1,0 +1,7 @@
+name "wharf"
+version "0.1.0"
+description "*Needs Description"
+authors "Tyler Eagan (eagan76)"
+copyright "Copyright © 2025, Tyler Eagan (eagan76)"
+license "BSD-3-Clause"
+dependency "dmd" version="~>2.111.0"

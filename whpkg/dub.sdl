@@ -1,0 +1,5 @@
+name "whpkg"
+description "A package/version manager for the wharf programing language"
+authors "Tyler Eagan (eagan76)"
+copyright "Copyright © 2025, Tyler Eagan (eagan76)"
+license "BSD-3-Clause"

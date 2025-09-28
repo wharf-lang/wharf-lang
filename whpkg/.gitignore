@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/whpkg
+whpkg.so
+whpkg.dylib
+whpkg.dll
+whpkg.a
+whpkg.lib
+whpkg-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

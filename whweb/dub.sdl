@@ -1,0 +1,5 @@
+name "whweb"
+description "A webapp framework for wharf that compiles to WASM"
+authors "Tyler Eagan (eagan76)"
+copyright "Copyright © 2025, Tyler Eagan (eagan76)"
+license "BSD-3-Clause"

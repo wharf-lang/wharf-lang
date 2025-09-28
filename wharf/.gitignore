@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/wharf
+wharf.so
+wharf.dylib
+wharf.dll
+wharf.a
+wharf.lib
+wharf-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/whweb
+whweb.so
+whweb.dylib
+whweb.dll
+whweb.a
+whweb.lib
+whweb-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
