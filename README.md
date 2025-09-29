@@ -1,5 +1,6 @@
 # wharf
-**None of this is real yet but soon!**
+
+### **None of this is real yet but soon!**
 A simple programming language with first party and first class support for WASM.
 With the goal to make it easy to use as little JS as possible.
 
